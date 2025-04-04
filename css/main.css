@@ -1,0 +1,18 @@
+#startbut {
+    border: 5px;
+    margin-top: 320px;
+}
+#exitbutton {
+    position: fixed;
+    color: red;
+    bottom: 0;
+    right: 0;
+}
+#footer {
+    width: 100%;
+    background-color:cornflowerblue;
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+
+}
